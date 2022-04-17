@@ -165,3 +165,36 @@ body {
         font-size: 16px;
     }
 }
+
+.img_5 {
+    background-image: url(/images/image_5.png);
+    max-width: 1770px;
+    width: 100%;
+    min-height: 700px;
+    position: absolute;
+}
+
+.img_5--card {
+    max-width: 543px;
+    width: 100%;
+    min-height: 374px;
+    background-color: #232323;
+    opacity: 0.5;
+    position: relative;
+    right: 290px;
+    top: 60px;
+}
+
+.img_5--btn {
+    max-width: 228px;
+    width: 100%;
+    min-height: 63px;
+}
+
+@media only screen and (max-width: 1140px) {
+    .img_5--card {
+        position: relative;
+        right: 0px;
+        top: 60px;
+    }
+}
