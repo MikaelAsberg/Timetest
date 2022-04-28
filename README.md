@@ -1,7 +1,18 @@
 # Timetest
 
-This site took me about 12 hours to finish. * 
-I'm at the starting point of my career. * 
-The main reason for this task is to show my skills for future employers. *
-The main focus for this site is to show that I can follow a figma layout and make the site fully responsive down to 320px (Iphone 4). *
-The site is build with HTML5, CSS3 and Bootstrap. No SASS this time, and no functionality with Javascript eather.
+The purpose of this website is to se how fast I could create a web page based on a Figma design
+
+I'm in my starting point of my career as a web developer, so this took me 12 hour to finish
+
+The reason of this web page creation is to show future employers what I can do, so this is a work test
+
+After I finished my course in HTML/CSS I recreated this Figma design on my free time
+
+This is a single page build with HTML5, CSS3 and Bootstrap
+
+This is a static and fully responsive down to 320px
+
+I build it from scratch with no templates
+
+
+
