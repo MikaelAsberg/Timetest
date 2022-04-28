@@ -8,6 +8,8 @@ The reason of this page creation is to show future employers what I can do, so t
 
 After I finished my course in HTML/CSS, I recreated this Figma design on my free time
 
+You can find figma file in this repo
+
 This is a single page build with HTML5, CSS3 and Bootstrap
 
 This is a static and fully responsive page down to 320px
